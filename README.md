@@ -76,4 +76,4 @@ This project includes vuejs but we will not use this part for the final applicat
 
 You don't really need to run npm commands because the frontend will be served separately.
 
-You can find the frontend part, a vuejs cli project, here : https://github.com/xavierfrancoisepitech/Dream_Team
+You can find the frontend part, a vuejs cli project, here : https://github.com/lebiscuithd/RiftSensei-FrontEnd
